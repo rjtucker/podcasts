@@ -9,9 +9,9 @@
     <description>Selected sermons and messages by John Piper.</description>
     <language>en-us</language>
     <itunes:author>John Piper</itunes:author>
-    <itunes:image href="https://rjtucker.github.io/podcasts/piper/artwork.jpg"/>
+    <itunes:image href="https://rjtucker.github.io/podcasts/piper/artwork.jpg?v=2"/>
     <image>
-      <url>https://rjtucker.github.io/podcasts/piper/artwork.jpg</url>
+      <url>https://rjtucker.github.io/podcasts/piper/artwork.jpg?v=2</url>
       <title>John Piper [RJT]</title>
       <link>https://www.desiringgod.org</link>
     </image>
