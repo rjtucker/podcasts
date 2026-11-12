@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Piper [RJT]</title>
+    <link>https://www.desiringgod.org</link>
+    <description>Selected sermons and messages by John Piper.</description>
+    <language>en-us</language>
+    <itunes:author>John Piper</itunes:author>
+    <itunes:image href="https://rjtucker.github.io/podcasts/piper/artwork.jpg"/>
+    <image>
+      <url>https://rjtucker.github.io/podcasts/piper/artwork.jpg</url>
+      <title>John Piper [RJT]</title>
+      <link>https://www.desiringgod.org</link>
+    </image>
+
+    <!-- February 24, 2008 -->
+    <item>
+      <title>Everyone Who Has Been Born of God Overcomes the World</title>
+      <link>https://www.desiringgod.org/messages/everyone-who-has-been-born-of-god-overcomes-the-world</link>
+      <description><![CDATA[<p><strong>A Wide-Angle View of John’s First Letter</strong> (1 John 5:1–5)</p><p>Newborn believers obey God's commandments, knowing that even when they fail they will never ultimately fall away.</p>]]></description>
+      <pubDate>Sun, 24 Feb 2008 09:00:00 -0600</pubDate>
+      <enclosure url="https://audio.desiringgod.org/20080224-en-everyone-who-has-been-born-of-god-overcomes-the-world.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">dg-piper-20080224-overcomes-the-world</guid>
+      <itunes:author>John Piper</itunes:author>
+    </item>
+  </channel>
+</rss>
