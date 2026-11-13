@@ -9,9 +9,9 @@
     <description>Selected sermons and messages by Dr. Timothy Keller.</description>
     <language>en-us</language>
     <itunes:author>Timothy Keller</itunes:author>
-    <itunes:image href="https://rjtucker.github.io/podcasts/keller/artwork.jpg"/>
+    <itunes:image href="https://rjtucker.github.io/podcasts/keller/artwork.jpg?v=2"/>
     <image>
-      <url>https://rjtucker.github.io/podcasts/keller/artwork.jpg</url>
+      <url>https://rjtucker.github.io/podcasts/keller/artwork.jpg?v=2</url>
       <title>Tim Keller [RJT]</title>
       <link>https://gospelinlife.com</link>
     </image>
