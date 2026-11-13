@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Keller [RJT]</title>
+    <link>https://gospelinlife.com</link>
+    <description>Selected sermons and messages by Dr. Timothy Keller.</description>
+    <language>en-us</language>
+    <itunes:author>Timothy Keller</itunes:author>
+    <itunes:image href="https://rjtucker.github.io/podcasts/keller/artwork.jpg"/>
+    <image>
+      <url>https://rjtucker.github.io/podcasts/keller/artwork.jpg</url>
+      <title>Tim Keller [RJT]</title>
+      <link>https://gospelinlife.com</link>
+    </image>
+
+    <!-- February 9, 2026 (Preached September 26, 1993) -->
+    <item>
+      <title>How to Handle Trouble</title>
+      <link>https://podcast.gospelinlife.com/e/how-to-handle-trouble/</link>
+      <description><![CDATA[<p><strong>Series:</strong> Splendor in the Furnace: 1 Peter, Part 1 | <strong>Scripture:</strong> 1 Peter 1:6–9 | <strong>Preached:</strong> September 26, 1993</p><p>Dr. Timothy Keller explains how Christians navigate suffering using 1 Peter. Sufferings and glory are bound together, echoing Jesus Christ's journey. Biblical doctrine provides necessary joy during trials. Believers experience both grief and inexpressible joy, as suffering serves a purposeful, God-monitored role in shaping spiritual wholeness and deep self-discovery.</p>]]></description>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 -0500</pubDate>
+      <enclosure url="https://mcdn.podbean.com/mf/web/r6zwusak39w9gz8u/260209_HowToHandleTrouble.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">gil-keller-20260209-how-to-handle-trouble</guid>
+      <itunes:author>Timothy Keller</itunes:author>
+      <itunes:duration>00:36:26</itunes:duration>
+    </item>
+  </channel>
+</rss>
