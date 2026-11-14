@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>St. John's Vancouver [RJT]</title>
+    <link>https://yetanothersermon.host/_/sjv/sermons/</link>
+    <description>Selected sermons and messages from St. John's Vancouver.</description>
+    <language>en-ca</language>
+    <itunes:author>St. John's Vancouver</itunes:author>
+    <itunes:image href="https://rjtucker.github.io/podcasts/sjv/artwork.jpg"/>
+    <image>
+      <url>https://rjtucker.github.io/podcasts/sjv/artwork.jpg</url>
+      <title>St. John's Vancouver [RJT]</title>
+      <link>https://yetanothersermon.host/_/sjv/sermons/</link>
+    </image>
+
+    <!-- November 8, 2026 -->
+    <item>
+      <title>Ephesians 5:22-33</title>
+      <link>https://yetanothersermon.host/_/sjv/sermons/106319/ephesians-522-33/</link>
+      <description><![CDATA[<p><strong>Speaker:</strong> Rev. Jordan Senner | <strong>Series:</strong> Ephesians: God's Good Plan, God's New Humanity (Part 15) | <strong>Scripture:</strong> Ephesians 5:22–33</p><p>Rev. Jordan Senner unpacks Paul's vision of Christian marriage in Ephesians 5:22–33 as a living, embodied picture of Christ's sacrificial love for the church and the church's voluntary trust and devotion to Christ.</p>]]></description>
+      <pubDate>Sun, 08 Nov 2026 18:00:00 -0800</pubDate>
+      <enclosure url="https://yetanothersermon.host/_/sjv/media/mp3/104016.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">sjv-106319-ephesians-522-33</guid>
+      <itunes:author>Rev. Jordan Senner</itunes:author>
+      <itunes:duration>00:28:26</itunes:duration>
+    </item>
+  </channel>
+</rss>
